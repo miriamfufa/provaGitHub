@@ -1,4 +1,4 @@
 Soy un archivo txt
-Estas lineas serán
-afectas :D
+Estas líneas serán afectadas
+generando un merge :O
 Bye! (∪.∪ )...zzz
